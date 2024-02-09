@@ -1,0 +1,60 @@
+/* estilo.css */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.headernome {
+    background-color: lightblue;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.nome {
+    margin: 0;
+}
+
+.navmenu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navmenu a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 20px;
+}
+
+.navmenu a:hover {
+    text-decoration: underline;
+}
+
+.section {
+    padding: 20px;
+}
+
+.section h2 {
+    color: #007bff;
+}
+
+.section ul {
+    list-style-type: none;
+}
+
+.section li {
+    margin-bottom: 10px;
+}
+
+.linkmenu {
+    text-decoration: none;
+    color: #333;
+}
+
+.linkmenu:hover {
+    text-decoration: underline;
+}
